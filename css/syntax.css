@@ -1,17 +1,4 @@
-*/ targeting elements / tags */
-
-
-#header {
-    position: absolute;
-    top: o;
-    left: o;
-}
-#header h1{
-font-size: 32px;
-}
-p, span, a{
-    font-size: 18px;
-    color: blue;
-    font-weight: bold;
+#all-articles h2 + p{
+    color: green;
 }
 
