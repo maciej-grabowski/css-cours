@@ -1,3 +1,6 @@
+*/ targeting elements / tags */
+
+
 #header {
     position: absolute;
     top: o;
@@ -6,8 +9,9 @@
 #header h1{
 font-size: 32px;
 }
-p{
+p, span, a{
     font-size: 18px;
     color: blue;
+    font-weight: bold;
 }
 
